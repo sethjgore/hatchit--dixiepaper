@@ -1,0 +1,15 @@
+.block__main
+
+  // [from] body.scss
+  // [func] makes the section expand as much neded to make the footer stick to the bottom
+  @extend .body__section--expand
+
+.block__main--front
+  @extend .block__main
+
+  background: url('../img/site-wide/bg__front--products.png') no-repeat
+  background-position: center center
+  background-size: cover
+
+.main__box
+  +outer-container

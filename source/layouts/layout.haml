@@ -1,0 +1,17 @@
+!!!
+/[if IE 8] <html class="no-js lt-ie9" lang="en">
+/ [if gt IE 8]><!
+%html.no-js{:lang => "en"}
+  / <![endif]
+  %head
+    %meta{:charset => "utf-8"}
+    %meta{:content => "width=device-width", :name => "viewport"}
+    = stylesheet_link_tag "style"
+    %title Infini Solutions
+  %body.body__flexbox
+    = partial 'layouts/nav'
+    %section.block__main--front
+      .main__box
+        = yield
+    = partial 'layouts/footer'
+    = partial 'layouts/scripts'

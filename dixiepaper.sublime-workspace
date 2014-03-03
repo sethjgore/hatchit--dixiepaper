@@ -1,0 +1,1661 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h1",
+				"h1-font-size"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"output",
+				"output_style"
+			],
+			[
+				"t",
+				"transform"
+			],
+			[
+				"pull",
+				"pulledConent"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 1182,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.rb",
+			"settings":
+			{
+				"buffer_size": 1620,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/layouts/layout.haml",
+			"settings":
+			{
+				"buffer_size": 455,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/css/ui/_main.sass",
+			"settings":
+			{
+				"buffer_size": 368,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"selected_items":
+		[
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wp_",
+				"Snippet: wp_nav_menu All Options"
+			],
+			[
+				"menu",
+				"Snippet: wp_nav_menu All Options"
+			],
+			[
+				"word",
+				"Snippet: WordPress Enqueue Script"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ri",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"syntax",
+				"Set Syntax: Sass"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"grun",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"haml",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"projec",
+				"Project: Edit"
+			],
+			[
+				"dupi",
+				"File: Duplicate"
+			],
+			[
+				"syntax sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"format",
+				"Format Code"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"conver",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"rean",
+				"File: Rename"
+			],
+			[
+				"p",
+				"Project: Add Folder"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"renae",
+				"File: Rename"
+			],
+			[
+				"mve",
+				"File: Move"
+			],
+			[
+				"dupil",
+				"File: Duplicate"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"syntax bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - User"
+			],
+			[
+				"h",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"set syntax sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"angular",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"inste",
+				"Package Control: Install Package"
+			],
+			[
+				"angul",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"packages",
+				"Package Control: Disable Package"
+			],
+			[
+				"han",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"ham",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"syntaxsass",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 538.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+			"view.run_command(\"htmlprettify\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/README.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/ui/_site-logo.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/ui/_section.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/ui/_body.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/bourbon/_bourbon-deprecated-upcoming.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/normalize-scss/bower.json",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/style.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/components/_navbar.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/layouts/_nav.haml",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/layouts/_footer.haml",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/index.html.haml",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/ui/_footer.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/neat/grid/_fill-parent.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/ui/_main.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/bourbon/css3/_image-rendering.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/MIT-LICENSE.txt",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/middleman.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/sass.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/bourbon/helpers/_radial-arg-parser.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/bourbon/helpers/_gradient-positions-parser.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/neat/_neat-helpers.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/humans.txt",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/layouts/layout.haml",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/style.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/dixiepaper.sublime-project",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/bourbon/helpers/_deprecated-webkit-gradient.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/base/is/_is__text.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/concurrent.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/open.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/config.rb",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/concat.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/coffee.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/clean.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/config.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/Gemfile",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/base/_type--sizing.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/base/_type--appearance.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/bourbon/functions/_transition-property-name.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/bourbon/addons/_font-family.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/img/site-wide/logo__site.svg",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/normalize-scss/LICENSE.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/base/_fonts.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/normalize-scss/normalize.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/Rakefile",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/watch.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/connect.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/sass/neat/grid/_outer-container.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/sass/components/_ribbon.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/Gruntfile.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/copy.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/sass/style.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/package.json",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/_grid.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/components/_ribbon.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/style.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/components/_navbar.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/nav-below-single.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/nav-below.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/glob/examples/usr-local.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/uglify.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/Gruntfile.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/watch.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-watch/package.json",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/glob/README.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/_fonts.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/functions.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-bourbon/assets/stylesheets/helpers/_gradient-positions-parser.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/helpers/_radial-arg-parser.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/archive.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/footer.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/ui/_services-ribbon.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/sass.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/functions/_transition-property-name.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/addons/_retina-image.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/helpers/_render-gradients.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/glob/test/root-nomount.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/ui/_section.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/kitchensink.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/header.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/template.php.sample",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/_bourbon-deprecated-upcoming.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-concat/test/expected/default_options",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/package.json",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-neat/Makefile",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/page.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-bourbon/assets/stylesheets/addons/_html5-input-types.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/middleman.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-bourbon/assets/stylesheets/css3/_inline-block.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-bourbon/assets/stylesheets/css3/_image-rendering.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/ui/_site-logo.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/ui/page-main.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/is/_is__colors.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/_type--appearance.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/is/_is__this.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/_shame.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/is/_is__text.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/_colors.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/concurrent.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/style.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/style.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/theme-description.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-connect/tasks/certs/server.crt",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/neat/grid/_span-columns.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/css3/_image-rendering.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/normalize-scss/README.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-bourbon/assets/stylesheets/settings/_px-to-em.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-haml/LICENSE-MIT",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-bourbon/assets/stylesheets/css3/_animation.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-neat/assets/stylesheets/grid/_visual-grid.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-neat/assets/stylesheets/settings/_visual-grid.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-bourbon/assets/stylesheets/css3/_backface-visibility.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/entry.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/entry-meta.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-sass/docs/sass-examples.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/open.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/neat/grid/_outer-container.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/concat.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/theme-tigershredding.sublime-project",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/addons/_prefixer.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/typekit.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/.gitignore",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/_type--sizing.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/css3/_inline-block.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/css3/_linear-gradient.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/css3/_flex-box.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/type/_type--sizing.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/neat/grid/_reset.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/_type.sass"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"            ",
+			"^.*?(?==)",
+			"Us",
+			"\n",
+			"About",
+			"funct",
+			"add_action",
+			"functi",
+			"register_",
+			"menu",
+			"tigershredding",
+			"blankslate",
+			"0px",
+			"$h1-font-size,",
+			"$h1-font-size",
+			"font-size",
+			"3rem",
+			";",
+			"@i",
+			"ProximaNova",
+			"<smal",
+			"  }\n}",
+			"}{",
+			";",
+			"main",
+			"  .section--color--main\n    @extend .is__background--c-main",
+			";",
+			";\n@import \"neat/neat\";",
+			"  ",
+			"\n  ",
+			"olor",
+			"$",
+			";",
+			"}",
+			"{",
+			";",
+			"neat",
+			"export",
+			"log",
+			"status",
+			"bundle",
+			"alias",
+			"Regular",
+			"regular",
+			"background--green-light",
+			".section.is-background__green",
+			"rgbvalue",
+			"$name",
+			"breakpoint",
+			".Grid",
+			"g",
+			"G",
+			"{\n",
+			"grid__item",
+			"  ",
+			"grid__item",
+			"    ",
+			"<!--\n\n    -->",
+			"\n       ",
+			"false",
+			"true",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"\n        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"rem",
+			"px",
+			"i18n",
+			"multi_json",
+			"blockquote",
+			"\n				",
+			"// ",
+			"small-4",
+			"row",
+			"  ",
+			"    ",
+			"   ",
+			"  ",
+			"	",
+			"h1",
+			"link",
+			"%a",
+			"      %",
+			"%a",
+			"%a{:",
+			"onts/rondo/",
+			"{$",
+			"theController",
+			"a",
+			"2",
+			"mall-2 ",
+			"animate-top-level",
+			"animate",
+			"view",
+			"angular",
+			"grayscale(0.5)",
+			".is.centered",
+			"NAME-YOUR-ANIMATION ",
+			"body",
+			"lib",
+			"lbv8",
+			".l-inline.l-margin-left.t-right",
+			"middleman-core",
+			"fo",
+			"ship",
+			"is",
+			"selector",
+			"elem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								470,
+								470
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 150.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/layouts/layout.haml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								411,
+								411
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "source/css/ui/_main.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "dixiepaper.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"source/css/ui/_main.sass"
+			],
+			[
+				"body",
+				"source/css/ui/_body.sass"
+			],
+			[
+				"site",
+				"source/css/ui/_site-logo.sass"
+			],
+			[
+				"nav",
+				"source/layouts/_nav.haml"
+			],
+			[
+				"footer",
+				"source/css/ui/_footer.sass"
+			],
+			[
+				"foot",
+				"source/layouts/_footer.haml"
+			],
+			[
+				"style",
+				"source/css/style.sass"
+			],
+			[
+				"in",
+				"source/index.html.haml"
+			],
+			[
+				"layout",
+				"source/layouts/layout.haml"
+			],
+			[
+				"inde",
+				"source/index.html.haml"
+			],
+			[
+				"conf",
+				"config.rb"
+			],
+			[
+				"ope",
+				"grunt-tasks/options/open.js"
+			],
+			[
+				"grunt-tasks/",
+				"grunt-tasks/options/concurrent.js"
+			],
+			[
+				"sytle",
+				"source/css/style.css"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"sass",
+				"grunt-tasks/options/sass.js"
+			],
+			[
+				"type",
+				"source/css/base/_type--sizing.sass"
+			],
+			[
+				"style.sass",
+				"source/css/style.sass"
+			],
+			[
+				"sty",
+				"source/css/style.css"
+			],
+			[
+				"lay",
+				"source/layouts/layout.haml"
+			],
+			[
+				"logo",
+				"source/img/site-wide/logo__site.svg"
+			],
+			[
+				"config",
+				"config.rb"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"oepn",
+				"grunt-tasks/options/open.js"
+			],
+			[
+				"concurr",
+				"grunt-tasks/options/concurrent.js"
+			],
+			[
+				"conc",
+				"grunt-tasks/options/concat.js"
+			],
+			[
+				"midd",
+				"grunt-tasks/options/middleman.js"
+			],
+			[
+				"open",
+				"grunt-tasks/options/open.js"
+			],
+			[
+				"conne",
+				"grunt-tasks/options/connect.js"
+			],
+			[
+				"concur",
+				"grunt-tasks/options/concurrent.js"
+			],
+			[
+				"watch",
+				"grunt-tasks/options/watch.js"
+			],
+			[
+				"concu",
+				"grunt-tasks/options/concurrent.js"
+			],
+			[
+				"concat",
+				"grunt-tasks/options/concat.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"grid",
+				"tigershredding/sass/base/_grid.sass"
+			],
+			[
+				"heaer",
+				"tigershredding/header.php"
+			],
+			[
+				"navbar",
+				"tigershredding/sass/components/_navbar.sass"
+			],
+			[
+				"header",
+				"tigershredding/header.php"
+			],
+			[
+				"func",
+				"tigershredding/functions.php"
+			],
+			[
+				"kitch",
+				"tigershredding/kitchensink.php"
+			],
+			[
+				"kitche",
+				"tigershredding/kitchensink.php"
+			],
+			[
+				"secti",
+				"tigershredding/sass/ui/_section.sass"
+			],
+			[
+				"iscolor",
+				"tigershredding/sass/base/is/_is__colors.sass"
+			],
+			[
+				"color",
+				"tigershredding/sass/base/_colors.scss"
+			],
+			[
+				"isthi",
+				"tigershredding/sass/base/is/_is__this.sass"
+			],
+			[
+				"sitelog",
+				"tigershredding/sass/ui/_site-logo.sass"
+			],
+			[
+				"sitelo",
+				"tigershredding/sass/ui/_site-logo.sass"
+			],
+			[
+				"sect",
+				"tigershredding/sass/ui/_section.sass"
+			],
+			[
+				"project",
+				"tigershredding/theme-tigershredding.sublime-project"
+			],
+			[
+				"conac",
+				"tigershredding/grunt-tasks/options/concat.js"
+			],
+			[
+				"git",
+				"tigershredding/.gitignore"
+			],
+			[
+				"giti",
+				"tigershredding/.gitignore"
+			],
+			[
+				"ist",
+				"tigershredding/sass/base/is/_is__text.sass"
+			],
+			[
+				"styl",
+				"tigershredding/sass/style.sass"
+			],
+			[
+				"s",
+				"tigershredding/grunt-tasks/options/sass.js"
+			],
+			[
+				"fonts",
+				"tigershredding/sass/base/_fonts.sass"
+			],
+			[
+				"kitchen",
+				"tigershredding/kitchensink.php"
+			],
+			[
+				"iste",
+				"tigershredding/sass/base/is/_is__text.sass"
+			],
+			[
+				"is",
+				"tigershredding/sass/base/is/_is__text.sass"
+			],
+			[
+				"font",
+				"tigershredding/sass/base/_fonts.sass"
+			],
+			[
+				"is_text",
+				"tigershredding/sass/base/is/_is__text.sass"
+			],
+			[
+				"head",
+				"tigershredding/header.php"
+			],
+			[
+				"break",
+				"tigershredding/sass/base/_breakpoints.scss"
+			],
+			[
+				"base/",
+				"tigershredding/sass/base/is/_is__text.sass"
+			],
+			[
+				"section",
+				"~/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/ui/_section.sass"
+			],
+			[
+				"style.cs",
+				"tigershredding/style.css"
+			],
+			[
+				"nav.sas",
+				"tigershredding/sass/components/_navbar.sass"
+			],
+			[
+				"style.css",
+				"tigershredding/style.css"
+			],
+			[
+				"sas",
+				"tigershredding/grunt-tasks/options/sass.js"
+			],
+			[
+				"gruntfi",
+				"tigershredding/Gruntfile.js"
+			],
+			[
+				"shell",
+				"tigershredding/grunt-tasks/options/shell.js"
+			],
+			[
+				"gr",
+				"tigershredding/Gruntfile.js"
+			],
+			[
+				"confu",
+				"~/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/Gruntfile.js"
+			],
+			[
+				"samp",
+				"tigershredding/grunt-tasks/options/sample.task.js"
+			],
+			[
+				"watc",
+				"tigershredding/grunt-tasks/options/watch.js"
+			],
+			[
+				"wat",
+				"tigershredding/grunt-tasks/options/watch.js"
+			],
+			[
+				"ocncurr",
+				"tigershredding/grunt-tasks/options/concurrent.js"
+			],
+			[
+				"sample",
+				"tigershredding/grunt-tasks/options/sample.task.js"
+			],
+			[
+				"theme",
+				"tigershredding/theme-description.css"
+			],
+			[
+				"tiger",
+				"tigershredding/sass/tigershredding.css"
+			],
+			[
+				"tigershre",
+				"tigershredding/css/tigershredding.sass"
+			],
+			[
+				"_iscolo",
+				"tigershredding/css/base/is/_is_colors.sass"
+			],
+			[
+				"_is",
+				"tigershredding/css/base/is/_is.sass"
+			],
+			[
+				"_is_",
+				"tigershredding/css/base/is/_is__text.sass"
+			],
+			[
+				"is_color",
+				"tigershredding/css/base/is/_is_colors.sass"
+			],
+			[
+				"text",
+				"tigershredding/css/bourbon/addons/_hide-text.scss"
+			],
+			[
+				"neat",
+				"tigershredding/css/neat/neat.scss"
+			],
+			[
+				"bourbo",
+				"tigershredding/css/bourbon/bourbon.scss"
+			],
+			[
+				"kitc",
+				"tigershredding/kitchensink.php"
+			],
+			[
+				"tigershredding",
+				"tigershredding/css/tigershredding.sass"
+			],
+			[
+				"tigersre",
+				"tigershredding/css/tigershredding.css"
+			],
+			[
+				"tigershred",
+				"tigershredding/css/tigershredding.sass"
+			],
+			[
+				"tig",
+				"tigershredding/css/tigershredding.sass"
+			],
+			[
+				"tasks",
+				"node_modules/load-grunt-tasks/load-grunt-tasks.js"
+			],
+			[
+				"grun",
+				"tigershredding/Gruntfile.js"
+			],
+			[
+				"ti",
+				"tigershredding/css/tigershredding.sass"
+			],
+			[
+				"bour",
+				"tigershredding/css/bourbon/bourbon.css"
+			],
+			[
+				"php",
+				"grunt-tasks/options/php.js"
+			],
+			[
+				"",
+				"user/.zshrc"
+			],
+			[
+				"zshrc",
+				"user/.zshrc"
+			],
+			[
+				"hacks",
+				"user/.Trash/hacks.plugin.zsh"
+			],
+			[
+				"hack",
+				"user/.rvm/gems/ruby-2.0.0-p247/doc/ruby_parser-3.1.3/ri/RubyParserStuff/hack_encoding-i.ri"
+			],
+			[
+				"agnoster",
+				"user/.oh-my-zsh/themes/myagnoster.zsh-theme"
+			],
+			[
+				"myagnoster",
+				"user/.oh-my-zsh/themes/agnoster.zsh-theme"
+			],
+			[
+				"o",
+				".oh-my-zsh/oh-my-zsh.sh"
+			],
+			[
+				"ohmys",
+				".oh-my-zsh/oh-my-zsh.sh"
+			],
+			[
+				"copydir",
+				".oh-my-zsh/plugins/copydir/copydir.plugin.zsh"
+			],
+			[
+				"compleat",
+				".oh-my-zsh/plugins/compleat/compleat.plugin.zsh"
+			],
+			[
+				"battery",
+				".oh-my-zsh/plugins/battery/battery.plugin.zsh"
+			],
+			[
+				"plugins/",
+				".oh-my-zsh/plugins/bower/_bower"
+			],
+			[
+				"custom/",
+				".oh-my-zsh/custom/plugins/mm/mm.plugin.zsh"
+			],
+			[
+				".zshrc",
+				"user/.zshrc"
+			],
+			[
+				"git.",
+				".oh-my-zsh/plugins/git/git.plugin.zsh"
+			],
+			[
+				"mm.plug",
+				".oh-my-zsh/custom/plugins/mm/mm.plugin.zsh"
+			],
+			[
+				"pluginmm",
+				".oh-my-zsh/custom/plugins/mm/mm.plugin.zsh"
+			],
+			[
+				"plugin/mm",
+				".oh-my-zsh/custom/plugins/mm/mm.plugin.zsh"
+			],
+			[
+				"middleman",
+				"user/.rvm/gems/ruby-2.0.0-p247/bin/middleman"
+			],
+			[
+				"custom/plugin/",
+				".oh-my-zsh/custom/plugins/mm/mm.plugin.zsh"
+			],
+			[
+				"mm.plu",
+				".oh-my-zsh/custom/plugins/mm/mm.plugin.zsh"
+			],
+			[
+				"mm.pl",
+				".oh-my-zsh/custom/plugins/mm/mm.plugin.zsh"
+			],
+			[
+				"zsh/plugins/git",
+				".oh-my-zsh/plugins/git/git.plugin.zsh"
+			],
+			[
+				".zshr",
+				"user/.zshrc"
+			],
+			[
+				"mm",
+				"plugins/mm/mm.zsh"
+			],
+			[
+				"themes",
+				"themes/agnoster.zsh-theme"
+			],
+			[
+				"tod",
+				"sethjgre/source/_todo.txt"
+			],
+			[
+				"todo",
+				"sethjgre/source/_todo.txt"
+			],
+			[
+				"base",
+				"sethjgre/source/css/_base.scss"
+			],
+			[
+				"typ",
+				"sethjgre/source/css/ui/_type.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/theme-tigershredding.sublime-project"
+			],
+			[
+				"fe",
+				"~/Dropbox/Web/clients/fe-new/fe.sublime-project"
+			],
+			[
+				"joy",
+				"~/Dropbox/Web/personal/joy/joy.sublime-project"
+			],
+			[
+				"nerd",
+				"~/Dropbox/Web/clients/nerderychallenge/nerderychallenge.sublime-project"
+			],
+			[
+				"nerder",
+				"~/Dropbox/Web/clients/nerderychallenge/nerderychallenge.sublime-project"
+			],
+			[
+				"whiteb",
+				"~/Dropbox/Web/clients/whiteboard/whiteboard.sublime-project"
+			],
+			[
+				"seth",
+				"~/Dropbox/Web/sethjgre/sethjgre.sublime-workspace"
+			],
+			[
+				"learn",
+				"~/Dropbox/Web/clients/learnnow/learnnow.sublime-project"
+			],
+			[
+				"lea",
+				"~/My Stuff/learnnow/learnnow.sublime-workspace"
+			],
+			[
+				"s",
+				"~/Dropbox/Web/sethjgre/sethjgre.sublime-workspace"
+			],
+			[
+				"se",
+				"~/Dropbox/Web/sethjgre/sethjgre.sublime-workspace"
+			],
+			[
+				"sjg",
+				"~/Dropbox/Web/sethjgre/sethjgre.sublime-project"
+			],
+			[
+				"f",
+				"~/Dropbox/Web/fe/fe.sublime-project"
+			]
+		],
+		"width": 995.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

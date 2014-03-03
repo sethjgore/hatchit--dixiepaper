@@ -1,0 +1,32 @@
+.nav__flexbox
+  ul
+    display: flex
+    flex-direction: row
+    justify-content: space-around
+    align-items: center
+    +fill-parent
+
+  li
+    margin: auto
+
+nav
+  @extend .is__background--c-black
+
+  .nav__box
+    +outer-container
+    @extend .nav__flexbox
+
+    li
+      @extend .is__this--inline
+      @extend .is__text--c-white
+      @extend %pb-2
+      @extend %pt-2
+
+      &:hover
+
+      &.current_page_item
+        &:hover
+
+        a
+
+          &:before
