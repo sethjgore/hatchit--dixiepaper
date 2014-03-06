@@ -1,0 +1,11 @@
+.block__social-media
+  li
+    @extend .is__this--inline
+    @extend .is__text--unbulleted
+
+$socialList: twitter, facebook, linkedin
+
+@each $var in $socialList
+  .social__icon--#{$var}
+    @extend .fa-#{$var}
+    @extend .is__text--c-#{$var}

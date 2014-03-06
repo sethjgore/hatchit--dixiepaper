@@ -1,0 +1,14 @@
+// [Dropdowns]
+// Hovering Visiblitiy ---> Toggling visblity for hovering
+// Positioning ---> Relative/Absolute Superimposition
+
+.component__dropdown
+  position: relative
+
+  &:hover
+    .dropdown__box
+      visibility: visible
+
+  .dropdown__box
+    visibility: hidden
+    position: absolute

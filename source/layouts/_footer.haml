@@ -2,33 +2,40 @@
   .footer__box
     .row
       .col-6
-        %h3
+        %h3.footer__heading
           our locations
         .row
           .col-6
-            %ul
+            %ul.footer__location
               %li LOUISIANA
               %li 148 Country Club Circle
               %li PO BOX 1041
               %li Minden, LA 71058
               %li.footer__contact P: (800) 556-5002
           .col-6
-            %ul
+            %ul.footer__location
               %li TEXAS
               %li 3010 Highway, 31 E
               %li PO BOX 130729
               %li Tyler, TX 75713
               %li.footer__contact P: (800) 924-0348
-      .col-6
-        %h3
+      .col-6.is__text--right
+        %h3.footer__heading
           stay in touch
-        %ul
-          %li
-            T
-          %li
-            FB
-          %li
-            in
+        .block__social-media
+          %ul
+            %li.fa-stack.fa-lg
+              %a{:title => "Twitter"}
+                %i.fa.fa-circle.fa-stack-2x.is__text--c-twitter
+                %i.fa.fa-twitter.fa-stack-1x.is__text--c-black
+            %li.fa-stack.fa-lg
+              %a{:title => "Facebook"}
+                %i.fa.fa-circle.fa-stack-2x.is__text--c-facebook
+                %i.fa.fa-facebook.fa-stack-1x.is__text--c-black
+            %li.fa-stack.fa-lg
+              %a{:title => "LinkedIn"}
+                %i.fa.fa-circle.fa-stack-2x.is__text--c-linkedin
+                %i.fa.fa-linkedin.fa-stack-1x.is__text--c-black
         %ul
           %li.icon--email info@dixiepaper.net
           %li © 2014 Dixie Paper Co.

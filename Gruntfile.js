@@ -47,8 +47,7 @@ module.exports = function (grunt) {
   require('load-grunt-tasks')(grunt);
 
   // A task for development
-  grunt.registerTask('default', ['concurrent:setUpEnv'
-  ]);
+  grunt.registerTask('default', ['copy:fonts','concurrent:setUpEnv']);
 
   // A task for deployment
   grunt.registerTask('build', [

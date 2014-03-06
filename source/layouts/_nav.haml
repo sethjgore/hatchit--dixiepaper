@@ -1,28 +1,29 @@
-%nav.is__background--c-black
+%nav
   .nav__box
     .row
-      .col-6
+      .col-7
         .block__site-logo
-          .site-logo--image
-      .col-6
+          .site-logo--front
+      .col-5
         .nav__menu
-          %ul
+          %ul.nav__level--first
             %li
-              create account
+              %a{:href => ""} create account
             %li
-              login
-            %li
+              %a{:href => ""} login
+            %li.nav__dropdown
               menu
-            -#
-              %ul.navbar__dropdown
-                %li About Us
-                %li Online Ordering
-                %li Customer Support
-                %li Vendors
-                %li Green
-                %li Specials
-                %li Careers
-                %li Contact Us
+              .i.fa.fa-bars.nav__dropdown--menu-icon--spacing
+              .dropdown__box
+                %ul.nav__level--second
+                  %li About Us
+                  %li Online Ordering
+                  %li Customer Support
+                  %li Vendors
+                  %li Green
+                  %li Specials
+                  %li Careers
+                  %li Contact Us
 
 
 

@@ -18,5 +18,8 @@ module.exports = {
     options: {
             logConcurrentOutput: true
     }
+  },
+  copyAssets:{
+    tasks: ['copy:fonts']
   }
 }

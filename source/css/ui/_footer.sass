@@ -3,6 +3,16 @@ footer
 
 .footer__box
   +outer-container
+  @extend .is__text--c-white
+  @extend %pb-14
+  @extend %pt-14
+
+.footer__heading
+  @extend .is__text--smallheading
 
 .footer__contact
-  @extend .is__text--bold
+  @extend .is__text--smallheading
+
+.footer__location
+  li:first-child
+    @extend .is__text--c-gray

@@ -1,6 +1,19 @@
-.block__site-logo
-.site-logo--image
-  width: 15rem
-  height: 15rem
+$logoSize: 10rem
+
+.site-logo
+  width: $logoSize
+  height: $logoSize
   background: url('../img/site-wide/logo__site.svg') no-repeat
   background-size: contain
+
+.block__site-logo
+  position: relative
+  height: 1rem
+  width: 1rem
+
+.site-logo--front
+  @extend .site-logo
+  position: absolute
+
+.site-logo__buffer
+  @extend .pt-#{$logoSize}
