@@ -27,6 +27,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "source/layouts/_nav.haml",
+			"settings":
+			{
+				"buffer_size": 717,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -272,6 +280,27 @@
 	},
 	"file_history":
 	[
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/components/_navbar.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/normalize-scss/README.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/normalize-scss/.bower.json",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/components/_dropdown.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/component.json",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/copy.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/MIT-LICENSE.txt",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/_includes/navbar.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/assets/less/bootstrap-3.0.0/navs.less",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/assets/less/bootstrap-3.0.0/navbar.less",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/layouts/_nav.haml",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/_includes/ads/carbon-dark-vertical.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/_includes/icons/video-player.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/index.html.haml",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/Gemfile",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/bourbon/functions/_grid-width.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/Gruntfile.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/Rakefile",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/assets/less/bootstrap-3.0.0/dropdowns.less",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/config.rb",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/concurrent.js",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/style.sass",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/layouts/_footer.haml",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/assets/less/site/footer.less",
@@ -279,7 +308,6 @@
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/font-awesome.css",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/font-awesome.css/font-awesome.css",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/scss/font-awesome.scss",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/index.html.haml",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/layouts/layout.haml",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/3.2.1/assets/font-awesome/scss/_variables.scss",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/assets/font-awesome/scss/_variables.scss",
@@ -301,7 +329,6 @@
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/components/_social.sass",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/ui/_product-ticker.sass",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/ui/_main.sass",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/components/_navbar.sass",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/bourbon/helpers/_radial-arg-parser.scss",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/3.2.1/icon/headphones/index.html",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/3.2.1/assets/less/bootstrap-2.3.2/hero-unit.less",
@@ -311,7 +338,6 @@
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/_includes/footer.html",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/base/_fonts.sass",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/3.2.1/assets/less/sticky-footer.less",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/Gruntfile.js",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/base/_breakpoints.scss",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/_layouts/base.html",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/ui/_body.sass",
@@ -346,38 +372,26 @@
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/neat/settings/_visual-grid.scss",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/neat/grid/_visual-grid.scss",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/bourbon/functions/_flex-grid.scss",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/bourbon/functions/_grid-width.scss",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/Gemfile",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/neat/settings/_grid.scss",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/neat/grid/_grid.scss",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/3.2.1/assets/less/bootstrap-2.3.2/grid.less",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/assets/less/bootstrap-3.0.0/grid.less",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/open.js",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/layouts/_nav.haml",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/copy.js",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/components/_dropdown.sass",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/assets/less/bootstrap-3.0.0/dropdowns.less",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/3.2.1/assets/less/bootstrap-2.3.2/dropdowns.less",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/3.2.1/icon/move/index.html",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/assets/less/bootstrap-3.0.0/modals.less",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/dixiepaper.sublime-project",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/_includes/community/submitting-pull-requests.html",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/_includes/navbar.html",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/assets/less/bootstrap-3.0.0/navbar.less",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/assets/less/bootstrap-3.0.0/navs.less",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/bourbon/functions/_transition-property-name.scss",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/_includes/new-naming.html",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/3.2.1/assets/less/responsive-navbar.less",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/_includes/community/requesting-new-icons.html",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/Rakefile",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/ui/_site-logo.sass",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/package.json",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/config.rb",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/index.html",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/_includes/tests/rotated-flipped-inside-anchor.html",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/font-awesome/src/assets/less/site/fontawesome-icon-list.less",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/fonts/font-awesome/fonts/fontawesome-webfont.eot",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/concurrent.js",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/concat.js",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/uglify.js",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/layouts/_scripts.haml",
@@ -390,16 +404,10 @@
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/bourbon/_bourbon-deprecated-upcoming.scss",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/normalize-scss/bower.json",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/bourbon/css3/_image-rendering.scss",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/MIT-LICENSE.txt",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/sass.js",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/neat/_neat-helpers.scss",
 		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/style.css",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/bourbon/helpers/_deprecated-webkit-gradient.scss",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/coffee.js",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/clean.js",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/config.js",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/bourbon/addons/_font-family.scss",
-		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/bower_components/normalize-scss/LICENSE.md"
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/source/css/bourbon/helpers/_deprecated-webkit-gradient.scss"
 	],
 	"find":
 	{
@@ -562,8 +570,144 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "source/layouts/_nav.haml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								373,
+								373
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"history_list_is_closing": true,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		},
 		{
@@ -626,6 +770,22 @@
 		"selected_items":
 		[
 			[
+				"components/nav",
+				"source/css/components/_navbar.sass"
+			],
+			[
+				"nav",
+				"bower_components/font-awesome/src/_includes/navbar.html"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"config",
+				"config.rb"
+			],
+			[
 				"footer",
 				"source/layouts/_footer.haml"
 			],
@@ -656,10 +816,6 @@
 			[
 				"social",
 				"source/css/components/_social.sass"
-			],
-			[
-				"nav",
-				"source/css/components/_navbar.sass"
 			],
 			[
 				"base/vari",
@@ -800,14 +956,6 @@
 			[
 				"logo",
 				"source/img/site-wide/logo__site.svg"
-			],
-			[
-				"config",
-				"config.rb"
-			],
-			[
-				"grunt",
-				"Gruntfile.js"
 			],
 			[
 				"oepn",
@@ -1132,10 +1280,6 @@
 			[
 				".zshrc",
 				"user/.zshrc"
-			],
-			[
-				"git.",
-				".oh-my-zsh/plugins/git/git.plugin.zsh"
 			]
 		],
 		"width": 0.0
@@ -1214,7 +1358,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 224.0,
 	"status_bar_visible": true,
 	"template_settings":
