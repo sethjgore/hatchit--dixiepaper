@@ -10,17 +10,29 @@ footer
 .footer__heading
   @extend .is__text--smallheading
 
+  &.social
+    margin-bottom: 0
+
 .footer__contact
   @extend .is__text--size--kilo
   @extend .is__text--bold
   @extend .is__text--c-white
 
 .footer__location
-  line-height: 1.7rem
   @extend .is__text--c-gray
   @extend .is__text--c-regular
+  line-height: 1.7rem
 
   li:first-child
     @extend .is__text--bold
 
   
+.footer__information
+  @extend .is__text--c-gray
+  line-height: 1.7rem
+
+.footer__email
+  @extend .is__text--uppercase
+
+  a
+    @extend %pl-5
